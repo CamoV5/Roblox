@@ -1,1 +1,5 @@
-
+ $ dig www.roblocks-friend.com +nostats +nocomments +nocmd
+    > ;www.roblocks-friend.com.                     IN      A
+    > www.roblocks-friend.com.              3592    IN      CNAME   CamoV5.github.io.
+    > CamoV5.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
